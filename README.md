@@ -1,0 +1,1 @@
+Работа доступна по адресу https://sandbox-teens.practicum-team.ru/tasks/03-more-html-and-css-sprint/01-flex-sandboxes/06-header-and-footer/sandbox-01/pre
